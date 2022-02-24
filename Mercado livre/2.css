@@ -1,0 +1,41 @@
+body{
+   background-color: aliceblue;
+}
+header{
+    background-color:#FFF059;
+    height: 220px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 27px;
+}
+
+h1{
+
+
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+div{
+    text-align: center;
+    background-color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%,-50%);
+    padding: 30px;
+    
+    color:black;
+}
+button{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 18px;
+    font-size:15px ;
+    background-color:#2968C8;
+    width: 300px;
+    border-radius: 22px;
+  color: aliceblue;
+}
+button:hover{
+    background-color: deepskyblue;
+}
+

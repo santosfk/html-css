@@ -1,0 +1,100 @@
+body{
+    background-color: rgb(255, 252, 249);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align:left;
+    color:  black
+   font-size: 22px;
+
+}
+
+
+
+
+div{
+
+
+    text-align:center;
+}
+
+header{
+    background-color: yellow;
+    height: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 27px;
+    
+    
+}
+input{
+   height: 35px;
+  
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.corpo{
+    width: 960px;
+    margin: auto;
+}
+.conteudo{
+    display: table;
+}
+.imagem{
+    display: table-cell;
+    float: left;
+}
+
+p{
+    color: rgb(7, 168, 84);
+    font-size: 23px;
+}
+header{
+    background-color: #FFF159;
+ color: rgb(11, 11, 99);
+ font-size: 22px; 
+ font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+    h3{
+        color:black transparent;
+        font-size: 26px;
+       
+    }
+    button{
+        color: black;
+        background-color:ghostwhite;
+        padding: 16px;
+       border-radius: 20px; ]
+
+    }
+    button:hover{
+        border-color: blue;
+    }
+    .valor{
+       
+        color: black;
+        font-family:Arial, Helvetica, sans-serif ;
+        font-size: 22px;
+      
+    }
+    
+    input{
+        width: 500px;
+       position:absolute ;
+       
+    }
+    .botao{
+        color: black;
+        background-color: #2968C8;
+        font-size: 20px;
+        width: 49%;
+        border-radius: 10px;
+    }
+    .botao:hover{
+        background-color:  deepskyblue;
+    }
